@@ -1,0 +1,16 @@
+html{
+	background:#000;
+	text-align:center;
+    color:#fff;
+}
+body {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
+h1{
+	color:red;
+}
+p{
+	font-style:Arial;
+}
